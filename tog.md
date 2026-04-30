@@ -18,15 +18,15 @@ Her finner du et kart over ruten som 17 mai toget skal gå.
           <h6 class="card-title mb-3">Oppstilling</h6>
           <div class="mermaid">
             graph TD
-              1(7. Klasse) --> 2(Kleppestø<br>barnehage)
-              2(Kleppestø<br>barnehage) --> 3(Stognafjell<br>barnehage)
-              3(Stognafjell<br>barnehage) --> 4(1. Klasse)
-              4(1. Klasse) --> 5(2. Klasse)
-              5(2. Klasse) --> 6(Korpset)
-              6(Korpset) --> 7(3. Klasse)
-              7(3. Klasse) --> 8(4. Klasse)
-              8(4. Klasse) --> 9(5. Klasse)
-              9(5. Klasse) --> 10(6. Klasse)
+                1(7. Klasse) --> 2(Kleppestø barnehage)
+                2(Kleppestø barnehage) --> 3(Stongafjell barnehage)
+                3(Stongafjell barnehage) --> 4(1. Klasse)
+                4(1. Klasse) --> 5(Korpset)
+                5(Korpset) --> 6(2. Klasse)
+                6(2. Klasse) --> 7(3. Klasse)
+                7(3. Klasse) --> 8(4. Klasse)
+                8(4. Klasse) --> 9(5. Klasse)
+                9(5. Klasse) --> 10(6. Klasse)
           </div>
         </div>
       </div>
