@@ -12,8 +12,8 @@ Velkommen til en superkoselig nasjonaldagsfeiring på Kleppestø barneskole for 
 
 Her på siden finner du:<br>
 - 📋 Programmet
-- 🎈 [Kart over tog-ruten]({{ site.baseurl }}/tog/)<br>
-- 🗺️ [Kart over skoleområdet]({{ site.baseurl }}/omraade/) med morsomme leker, spennende aktiviteter og en fristende kafé 🍰☕ <br>
+- 🎈 [Kart over tog-ruten](tog/)<br>
+- 🗺️ [Kart over skoleområdet](omraade/) med morsomme leker, spennende aktiviteter og en fristende kafé 🍰☕ <br>
 
 #### Program
 
